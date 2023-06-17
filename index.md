@@ -5,7 +5,8 @@
 ### Podcast lover
 
 ![ChangeMe](https://www.apple.com/v/apple-podcasts/c/images/overview/hero_icon__c135x5gz14mu_large_2x.png)
-<img src="./figures/DSC04160.JPG" width="100" height="100">
+
+<img src="./figures/DSC04160.JPG" width="150" height="150">
 
 github.com/qjyw
 
