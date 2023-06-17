@@ -6,7 +6,7 @@
 
 ![ChangeMe](https://www.apple.com/v/apple-podcasts/c/images/overview/hero_icon__c135x5gz14mu_large_2x.png)
 
-<img src="./figures/DSC04160.JPG" width="150" height="150">
+<img src="./figures/DSC04160.JPG" width="150">
 
 github.com/qjyw
 
