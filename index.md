@@ -5,7 +5,7 @@
 ### Podcast lover
 
 ![ChangeMe](https://www.apple.com/v/apple-podcasts/c/images/overview/hero_icon__c135x5gz14mu_large_2x.png)
-![Solo picnic](/Users/qijiayuwen/my_page/figures/DSC04160.JPG)
+![Solo picnic](./figures/DSC04160.JPG)
 
 github.com/QJYW
 
