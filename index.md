@@ -27,11 +27,11 @@ Please refer to my [post]({% post_url 2023-06-16-my_thoughts %})
 
 {% for tag in site.tags %}
   {% if tag[0] == "podcast" %}
-    <ul>
-      {% for post in tag[1] %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
   {% endif %}
 {% endfor %}
 
