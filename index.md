@@ -23,34 +23,7 @@ Please refer to my [post]({% post_url 2023-06-16-my_thoughts %})
 
 =====================
 
-### Superpowers 
-
-- First 
-- Second
-- Third 
-
-=====================
-
-### Experience (last five years)
-
-Organization / Role
-YEAR - PRESENT (LOCATION)
-
-Organization / Role
-YEAR - PRESENT (LOCATION)
-
-Organization / Role
-YEAR - PRESENT (LOCATION)
-
-=====================
-
-### Current Interests
-
-- First 
-- Second
-- Third
-- 
-=====================
+### Podcast review
 
 <ul>
   {% for post in site.posts %}
@@ -59,3 +32,8 @@ YEAR - PRESENT (LOCATION)
     </li>
   {% endfor %}
 </ul>
+
+=====================
+
+### Series review
+
