@@ -9,8 +9,9 @@
 <img src="./figures/DSC04160.JPG" width="150">
 
 
-[My GitHub Pages](https://github.com/qjyw/)
-[About this site](https://qjyw.github.io/about/)
+[My GitHub Pages](https://github.com/qjyw)
+
+[About this site](https://qjyw.github.io/about)
 
 =====================
 
