@@ -19,7 +19,7 @@
 
 > Affogato food truck sint, kinfolk yr cornhole single-origin coffee artisan chambray banh mi. Selfies authentic cred crucifix, flexitarian thundercats cronut pug disrupt health goth. Crucifix magna ex, etsy kale chips tote bag jean shorts.
 
-Please refer to my [post]({% post_url 2016-06-16-my_thoughts %})]
+Please refer to my [post]({% post_url 2023-06-16-my_thoughts %})]
 
 =====================
 
