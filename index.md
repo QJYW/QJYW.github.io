@@ -9,7 +9,7 @@
 <img src="./figures/DSC04160.JPG" width="150">
 
 
-[My GitHub Pages](https://github.com/qjyw)
+[My GitHub](https://github.com/qjyw)
 
 [About this site](https://qjyw.github.io/about)
 
@@ -47,3 +47,13 @@ YEAR - PRESENT (LOCATION)
 - First 
 - Second
 - Third 
+
+=====================
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
