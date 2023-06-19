@@ -4,5 +4,4 @@ title: "About"
 permalink: /about
 ---
 
-# qjyw.github.io
-A place to dump some thoughts...
+This is a place to dump some thoughts...
